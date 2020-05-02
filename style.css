@@ -101,7 +101,7 @@ body .content {
     }
     .content p {
         font-size: 18px;
-        letter-spacing: 2px;
+        letter-spacing: 0.5px;
     }
     .footer {
         font-size: 12px;
