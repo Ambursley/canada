@@ -1576,6 +1576,14 @@ p {
     border-radius: 50%;
 }
 
+.single-testimonial .testimonial-image .quota img {
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
 .single-testimonial .testimonial-image .quota {
     position: absolute;
     bottom: 0;
